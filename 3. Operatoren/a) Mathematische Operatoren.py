@@ -16,17 +16,20 @@ print("Multiplikation", a * b)
 # Division
 print("Division", 10 / 5)
 
+
 # Potenzieren
 basis = 2
 exponent = 3
 potenzwert = basis ** exponent
 print("Potenzwert:", potenzwert)
 
+
 # Ganzzahldivision (Division ohne Rest)
 a = 11
 b = 3
 result = 11 // 3
 print("Ergebnis Ganzzahldivision:", result)
+
 
 # Modulo-Division (Rest einer Division)
 a = 10

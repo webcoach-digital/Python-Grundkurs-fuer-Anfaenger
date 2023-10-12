@@ -25,7 +25,7 @@ uneven_numbers.clear()
 print(uneven_numbers)
 
 # range() Funktion
-uneven_numbers = list(range(1, 12, 2))
+uneven_numbers = list(range(12))
 print(uneven_numbers)
 
 
@@ -38,7 +38,7 @@ uneven_numbers = []
 # Erster Durchlauf
 numberOne = int(input("Gib eine Zahl deiner Wahl ein:"))
 
-bEvenNumber = numberOne%2 == 0
+bEvenNumber = numberOne % 2 == 0
 print(numberOne, "ist eine gerade Zahl:", bEvenNumber)
 
 if bEvenNumber:

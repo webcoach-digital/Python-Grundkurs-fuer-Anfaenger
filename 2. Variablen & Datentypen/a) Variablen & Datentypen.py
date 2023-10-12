@@ -6,7 +6,11 @@ me_female = False
 
 
 # ---
+# print() Funktion
+print(my_foot_size)
 
+
+# ---
 # Datentyp: integer (int)
 # => Ganze Zahlen
 your_foot_size = 46
@@ -31,12 +35,11 @@ print(type(you_female))
 
 
 # ---
-
 # Datentypen umwandeln
 my_age_str = "31"
-print (type(my_age_str))
+print(type(my_age_str))
 
 my_age_int = int(my_age_str)
-print (type(my_age_int))
+print(type(my_age_int))
 
 

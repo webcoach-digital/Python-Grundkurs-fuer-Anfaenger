@@ -7,14 +7,14 @@
 
 # WORKOUT B | TRANSFER
 
-# Starte mit einer leeren Liste und erstelle anschließend ein for Schleife mit
+# Starte mit einer leeren Liste und erstelle anschließend eine for Schleife mit
 # der range() Funktion, um durch die Zahlen 0-100 zu iterieren. Prüfe für jede
 # Iteration ob es sich um eine gerade Zahl handelt und füge gerade Zahlen deiner
 # Liste hinzu. Für die Überprüfung benötigst du wieder eine if Bedingung und den
 # Modulo Operator. Gebe die Liste am Ende im Terminal mit der print() Funktion aus.
 
 
-# WORKOUT B | HEAVY
+# WORKOUT C | HEAVY
 
 # Starte wie in WORKOUT B mit einer leeren Liste und einer for Schleife von
 # 0-100. Prüfe nun für jede Zahl ob es sich um eine Primzahl handelt und füge

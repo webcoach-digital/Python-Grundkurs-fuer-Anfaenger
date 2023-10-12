@@ -2,9 +2,9 @@
 
 age = int(input("Bitte gib dein Alter ein:"))
 
-if (age >= 18):
+if age >= 18:
     print("Du darfst wählen")
-elif (age >= 16):
+elif age >= 16:
     print("In Bremen darfst Du bei der Landtagswahl wählen")
 else:
     print("Du darfst noch nicht wählen")
@@ -38,6 +38,9 @@ kgWeight = int(input("Wie viel wiegst Du?"))
 
 # Promille berechnen
 promille = gAlcohol / kgWeight * 0.7
+
+# Ausgabe Promille
+print(promille)
 
 # If else Bedingung
 if promille > 0.5:

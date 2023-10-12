@@ -4,14 +4,15 @@ def subtract(a=0, b=0):
     result = a - b
     return result
 
-print(subtract(10, 5))
+
+print(subtract(10))
 
 
 # ---
 # WORKOUT B
 
-def square(number):
-    return number*number
+def square(num):
+    return num*num
 
 counter = 0
 number = 2

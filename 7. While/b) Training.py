@@ -5,6 +5,7 @@
 # Dir nun mithilfe einer while Schleife alle Zahlen mit der print() Funktion im
 # Terminal ausgeben die größer als 7 sind.
 
+
 # WORKOUT B | TRANSFER & HEAVY
 
 # Erstelle ein einfaches Zahlenraten-Spiel in Python. Das Programm soll eine
