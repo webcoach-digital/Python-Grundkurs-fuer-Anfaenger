@@ -5,7 +5,7 @@ result = a and b
 print(a, "und", b, "ergeben:", result)
 
 # Oder
-a = 5 > 1 # False
+a = 5 > 1 # True
 b = 5 < 1 # False
 result = a or b
 print(a, "oder", b, "ergeben:", result)
